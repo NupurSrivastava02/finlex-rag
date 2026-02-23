@@ -91,3 +91,4 @@ Visit `http://localhost:8000`
 ## Demo
 Upload any SEC filing or legal contract and ask questions in plain English. 
 FinLex retrieves relevant passages and returns cited answers with page references.
+<img width="1440" height="628" alt="Screen Shot 2026-02-23 at 11 01 24 AM" src="https://github.com/user-attachments/assets/f1383c0f-8a0a-4d91-a454-4ca69fe18b20" />
