@@ -1,3 +1,4 @@
+<img width="771" height="689" alt="Screen Shot 2026-02-23 at 1 10 30 AM" src="https://github.com/user-attachments/assets/8ccfca7c-d22b-4133-87a7-13e9fd40955b" />
 # FinLex RAG — Financial & Legal Document Intelligence
 
 A production-grade Retrieval-Augmented Generation (RAG) system for analyzing financial filings, legal contracts, and SEC reports.
