@@ -89,6 +89,6 @@ Visit `http://localhost:8000`
 3. Get cited answers with source page references
 4. Run RAGAS evaluation to score pipeline quality
 
-## Resume Bullet
-
-> Built a domain-specific RAG pipeline over SEC filings and legal contracts using LangChain and LlamaIndex, serving answers via a FastAPI backend with RAGAS-evaluated retrieval quality (faithfulness, answer relevancy, context precision).
+## Demo
+Upload any SEC filing or legal contract and ask questions in plain English. 
+FinLex retrieves relevant passages and returns cited answers with page references.
