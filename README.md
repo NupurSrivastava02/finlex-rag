@@ -32,7 +32,7 @@ FastAPI Backend
 | Orchestration | LangChain RetrievalQA with MMR |
 | Evaluation | RAGAS (faithfulness, relevancy, precision) |
 | Backend | FastAPI |
-| Frontend | Vanilla JS + CSS (dark finance theme) |
+| Frontend | Vanilla JS + CSS |
 
 ## Setup
 
